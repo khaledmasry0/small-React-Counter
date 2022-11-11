@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/small-React-Counter/static/css/main.5bdb5efe.chunk.css",
+    "main.js": "/small-React-Counter/static/js/main.7d0147a8.chunk.js",
+    "main.js.map": "/small-React-Counter/static/js/main.7d0147a8.chunk.js.map",
+    "runtime-main.js": "/small-React-Counter/static/js/runtime-main.6e8f4491.js",
+    "runtime-main.js.map": "/small-React-Counter/static/js/runtime-main.6e8f4491.js.map",
+    "static/js/2.48783e7e.chunk.js": "/small-React-Counter/static/js/2.48783e7e.chunk.js",
+    "static/js/2.48783e7e.chunk.js.map": "/small-React-Counter/static/js/2.48783e7e.chunk.js.map",
+    "index.html": "/small-React-Counter/index.html",
+    "static/css/main.5bdb5efe.chunk.css.map": "/small-React-Counter/static/css/main.5bdb5efe.chunk.css.map",
+    "static/js/2.48783e7e.chunk.js.LICENSE.txt": "/small-React-Counter/static/js/2.48783e7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e8f4491.js",
+    "static/js/2.48783e7e.chunk.js",
+    "static/css/main.5bdb5efe.chunk.css",
+    "static/js/main.7d0147a8.chunk.js"
+  ]
+}
